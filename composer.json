@@ -1,5 +1,5 @@
 {
-  "name": "contributte/guzzlette",
+  "name": "yess-webioza/contributte-guzzlette",
   "description": "Guzzle integration into Nette Framework",
   "keywords": [
     "nette",
@@ -22,10 +22,10 @@
     "php": ">=8.0",
     "guzzlehttp/guzzle": "^7.5.0",
     "nette/di": "^3.1.0",
-    "nette/utils": "^3.2.8",
     "tracy/tracy": "^2.9.5"
   },
   "require-dev": {
+    "nette/utils": "^4",
     "mockery/mockery": "^1.5.1",
     "ninjify/nunjuck": "^0.4",
     "ninjify/qa": "^0.13",
